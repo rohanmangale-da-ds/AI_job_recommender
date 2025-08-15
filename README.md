@@ -30,10 +30,11 @@ project_root/
 
 ## Screenshots
 
+### UI - 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/467e68b9-3fa2-433f-92ad-f85d9840289d" />
 
 
-
+### LLM Prediction
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d13c43f1-cdc8-462b-916b-a46c9ee4a759" />
 
 
