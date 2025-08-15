@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Data Scientist",
+    "company": "TechNova Solutions",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Python", "Machine Learning", "SQL", "Statistics", "Data Visualization"],
+    "description": "Analyze data to drive business decisions and build predictive models.",
+    "posted_date": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "company": "PixelCraft",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience_level": "Entry-level",
+    "skills_required": ["HTML", "CSS", "JavaScript", "React.js"],
+    "description": "Develop responsive and user-friendly interfaces for web applications.",
+    "posted_date": "2025-08-02"
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "CodeSphere",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Node.js", "Express", "MongoDB", "REST APIs"],
+    "description": "Build scalable backend systems and integrate APIs for client projects.",
+    "posted_date": "2025-08-03"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "location": "Mumbai, India",
+    "type": "Contract",
+    "experience_level": "Mid-level",
+    "skills_required": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
+    "description": "Design intuitive user experiences for mobile and web applications.",
+    "posted_date": "2025-08-03"
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst Intern",
+    "company": "Insight Analytics",
+    "location": "Pune, India",
+    "type": "Internship",
+    "experience_level": "Entry-level",
+    "skills_required": ["Excel", "SQL", "Tableau", "Python"],
+    "description": "Assist in analyzing datasets and preparing reports for clients.",
+    "posted_date": "2025-08-04"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovators",
+    "location": "Chennai, India",
+    "type": "Full-time",
+    "experience_level": "Senior-level",
+    "skills_required": ["Python", "TensorFlow", "PyTorch", "Deep Learning"],
+    "description": "Develop and deploy ML models for real-world applications.",
+    "posted_date": "2025-08-05"
+  },
+  {
+    "id": 7,
+    "title": "Cloud Engineer",
+    "company": "CloudSphere",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["AWS", "Azure", "DevOps", "Docker", "Kubernetes"],
+    "description": "Manage cloud infrastructure and implement CI/CD pipelines.",
+    "posted_date": "2025-08-06"
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "Delhi, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Network Security", "Penetration Testing", "SIEM Tools"],
+    "description": "Monitor security events and perform vulnerability assessments.",
+    "posted_date": "2025-08-06"
+  },
+  {
+    "id": 9,
+    "title": "DevOps Engineer",
+    "company": "BuildOps",
+    "location": "Gurgaon, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Jenkins", "Docker", "Kubernetes", "AWS", "CI/CD"],
+    "description": "Automate deployments and improve infrastructure efficiency.",
+    "posted_date": "2025-08-07"
+  },
+  {
+    "id": 10,
+    "title": "Full Stack Developer",
+    "company": "TechForge",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["React.js", "Node.js", "MongoDB", "GraphQL"],
+    "description": "Work on both frontend and backend systems for client applications.",
+    "posted_date": "2025-08-07"
+  },
+  {
+    "id": 11,
+    "title": "Business Analyst",
+    "company": "InsightWorks",
+    "location": "Pune, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Excel", "SQL", "Business Process Mapping"],
+    "description": "Bridge communication between stakeholders and the development team.",
+    "posted_date": "2025-08-08"
+  },
+  {
+    "id": 12,
+    "title": "AI Research Intern",
+    "company": "DeepMind Labs",
+    "location": "Remote",
+    "type": "Internship",
+    "experience_level": "Entry-level",
+    "skills_required": ["Python", "NLP", "Machine Learning", "Research"],
+    "description": "Assist in AI research projects and prototype new algorithms.",
+    "posted_date": "2025-08-08"
+  },
+  {
+    "id": 13,
+    "title": "Mobile App Developer",
+    "company": "AppVentures",
+    "location": "Mumbai, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Flutter", "React Native", "iOS", "Android"],
+    "description": "Develop and maintain mobile applications for clients.",
+    "posted_date": "2025-08-09"
+  },
+  {
+    "id": 14,
+    "title": "Content Writer",
+    "company": "WritePro",
+    "location": "Remote",
+    "type": "Part-time",
+    "experience_level": "Entry-level",
+    "skills_required": ["Content Writing", "SEO", "Research"],
+    "description": "Create engaging and SEO-optimized blog and website content.",
+    "posted_date": "2025-08-09"
+  },
+  {
+    "id": 15,
+    "title": "Graphic Designer",
+    "company": "Creative Minds",
+    "location": "Pune, India",
+    "type": "Contract",
+    "experience_level": "Mid-level",
+    "skills_required": ["Photoshop", "Illustrator", "Figma"],
+    "description": "Design marketing materials and brand assets for campaigns.",
+    "posted_date": "2025-08-10"
+  },
+  {
+    "id": 16,
+    "title": "AI Product Manager",
+    "company": "SmartTech AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience_level": "Senior-level",
+    "skills_required": ["AI Strategy", "Product Management", "Agile"],
+    "description": "Lead AI product development from idea to launch.",
+    "posted_date": "2025-08-10"
+  },
+  {
+    "id": 17,
+    "title": "Data Engineer",
+    "company": "DataFlow",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Python", "ETL", "Apache Spark", "SQL"],
+    "description": "Design and maintain scalable data pipelines for analytics.",
+    "posted_date": "2025-08-11"
+  },
+  {
+    "id": 18,
+    "title": "HR Intern",
+    "company": "PeopleFirst",
+    "location": "Delhi, India",
+    "type": "Internship",
+    "experience_level": "Entry-level",
+    "skills_required": ["Recruitment", "Communication", "Excel"],
+    "description": "Assist in recruitment, onboarding, and HR operations.",
+    "posted_date": "2025-08-11"
+  },
+  {
+    "id": 19,
+    "title": "Blockchain Developer",
+    "company": "ChainWorks",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["Solidity", "Ethereum", "Smart Contracts"],
+    "description": "Build blockchain-based decentralized applications.",
+    "posted_date": "2025-08-12"
+  },
+  {
+    "id": 20,
+    "title": "SEO Specialist",
+    "company": "RankUp",
+    "location": "Remote",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "skills_required": ["SEO", "Google Analytics", "Content Strategy"],
+    "description": "Improve website rankings and organic traffic.",
+    "posted_date": "2025-08-12"
+  },
+    {
+        "id": 21,
+        "title": "AI Research Engineer",
+        "company": "DeepAI Solutions",
+        "location": "Bangalore, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Python", "TensorFlow", "Deep Learning", "NLP", "PyTorch"],
+        "description": "Conduct research and build AI models for NLP and computer vision applications."
+    },
+    {
+        "id": 22,
+        "title": "Data Engineer",
+        "company": "CloudData Systems",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["SQL", "Python", "Airflow", "ETL", "AWS"],
+        "description": "Build and maintain data pipelines for real-time and batch processing."
+    },
+    {
+        "id": 23,
+        "title": "Junior Java Developer",
+        "company": "CodeCraft",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "experience_level": "Entry-level",
+        "skills_required": ["Java", "Spring Boot", "MySQL", "REST APIs"],
+        "description": "Assist in backend development for enterprise software products."
+    },
+    {
+        "id": 24,
+        "title": "IT Support Specialist",
+        "company": "TechServe",
+        "location": "Delhi, India",
+        "job_type": "Full-time",
+        "experience_level": "Entry-level",
+        "skills_required": ["Networking", "Windows Server", "Troubleshooting", "Customer Support"],
+        "description": "Provide technical support for clients and internal teams."
+    },
+    {
+        "id": 25,
+        "title": "Frontend Engineer",
+        "company": "PixelWorks",
+        "location": "Pune, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["JavaScript", "React", "Redux", "CSS", "HTML"],
+        "description": "Develop and maintain modern web interfaces with high performance."
+    },
+    {
+        "id": 26,
+        "title": "Business Analyst",
+        "company": "BizInsights",
+        "location": "Chennai, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["SQL", "Excel", "Data Visualization", "Requirement Gathering"],
+        "description": "Analyze business processes and recommend technology-driven solutions."
+    },
+    {
+        "id": 27,
+        "title": "Flutter Developer",
+        "company": "Appify",
+        "location": "Hyderabad, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Flutter", "Dart", "Firebase", "REST APIs"],
+        "description": "Create cross-platform mobile apps with high UI/UX quality."
+    },
+    {
+        "id": 28,
+        "title": "Digital Marketing Specialist",
+        "company": "AdSpark",
+        "location": "Remote",
+        "job_type": "Part-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["SEO", "Google Ads", "Content Marketing", "Social Media"],
+        "description": "Plan and execute online marketing campaigns to drive brand growth."
+    },
+    {
+        "id": 29,
+        "title": "System Administrator",
+        "company": "NetSecure",
+        "location": "Delhi, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Linux", "Networking", "Server Maintenance", "Security"],
+        "description": "Maintain IT infrastructure and ensure system reliability."
+    },
+    {
+        "id": 30,
+        "title": "Junior Graphic Designer",
+        "company": "DesignWorks",
+        "location": "Mumbai, India",
+        "job_type": "Internship",
+        "experience_level": "Entry-level",
+        "skills_required": ["Photoshop", "Illustrator", "Figma", "Creativity"],
+        "description": "Assist in creating visual assets for marketing and branding."
+    },
+    {
+        "id": 31,
+        "title": "Cloud Architect",
+        "company": "SkyCloud",
+        "location": "Bangalore, India",
+        "job_type": "Full-time",
+        "experience_level": "Senior",
+        "skills_required": ["AWS", "Azure", "Cloud Security", "Architecture Design"],
+        "description": "Design and manage scalable and secure cloud infrastructure."
+    },
+    {
+        "id": 32,
+        "title": "Penetration Tester",
+        "company": "CyberSecure",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Kali Linux", "Ethical Hacking", "Security Testing", "Python"],
+        "description": "Test and improve security systems by simulating cyberattacks."
+    },
+    {
+        "id": 33,
+        "title": "HR Coordinator",
+        "company": "PeopleFirst",
+        "location": "Pune, India",
+        "job_type": "Full-time",
+        "experience_level": "Entry-level",
+        "skills_required": ["Recruitment", "HR Tools", "Communication", "Onboarding"],
+        "description": "Assist in hiring, onboarding, and employee engagement activities."
+    },
+    {
+        "id": 34,
+        "title": "AI Prompt Engineer",
+        "company": "PromptTech",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Prompt Engineering", "LLM APIs", "Python", "LangChain"],
+        "description": "Design and optimize prompts for LLM-based applications."
+    },
+    {
+        "id": 35,
+        "title": "Robotics Engineer",
+        "company": "RoboTech Labs",
+        "location": "Chennai, India",
+        "job_type": "Full-time",
+        "experience_level": "Senior",
+        "skills_required": ["ROS", "Python", "C++", "Embedded Systems"],
+        "description": "Develop and test robotic systems for industrial automation."
+    },
+    {
+        "id": 36,
+        "title": "DevOps Engineer",
+        "company": "OpsFlow",
+        "location": "Hyderabad, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Docker", "Kubernetes", "CI/CD", "AWS"],
+        "description": "Implement and manage continuous integration and deployment pipelines."
+    },
+    {
+        "id": 37,
+        "title": "UI/UX Designer",
+        "company": "DesignHub",
+        "location": "Remote",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
+        "description": "Design user-friendly interfaces and improve product usability."
+    },
+    {
+        "id": 38,
+        "title": "Operations Manager",
+        "company": "WorkFlow Inc.",
+        "location": "Delhi, India",
+        "job_type": "Full-time",
+        "experience_level": "Senior",
+        "skills_required": ["Operations Management", "Leadership", "Excel", "Project Management"],
+        "description": "Oversee daily operations and ensure smooth business processes."
+    },
+    {
+        "id": 39,
+        "title": "Content Writer",
+        "company": "WriteUp",
+        "location": "Remote",
+        "job_type": "Part-time",
+        "experience_level": "Entry-level",
+        "skills_required": ["Content Writing", "SEO", "Research", "Editing"],
+        "description": "Create engaging blog posts, articles, and marketing content."
+    },
+    {
+        "id": 40,
+        "title": "Electrical Engineer",
+        "company": "ElectroTech",
+        "location": "Mumbai, India",
+        "job_type": "Full-time",
+        "experience_level": "Mid-level",
+        "skills_required": ["Circuit Design", "AutoCAD", "MATLAB", "Power Systems"],
+        "description": "Design and test electrical systems for industrial projects."
+    }
+]
